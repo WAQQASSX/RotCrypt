@@ -6,7 +6,7 @@ The **Rot Encryption and Decryption Tool** is a simple command-line utility writ
 ## Features
 - Encrypt text using the ROT cipher.
 - Decrypt text back to its original form.
-- Customizable rotation value (e.g., ROT13, ROT5, ROT47, etc.).
+- Customizable rotation value (e.g., ROT13, ROT5, ROT25, etc.).
 - Lightweight and fast.
 - Works with uppercase and lowercase letters.
 
