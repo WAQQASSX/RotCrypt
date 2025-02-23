@@ -22,7 +22,7 @@ cd RotCrypt
 
 ### Build the Project
 ```sh
-go build -o rot-tool main.go
+go build -o main/main.go
 ```
 
 ## Author
